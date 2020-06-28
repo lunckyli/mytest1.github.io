@@ -5,7 +5,7 @@
 */
 
 
-var t = 0;
+var t = 1;
 
 function join_1(){
 if(t == 0){  document.querySelectorAll('.cont_letras > p')[0].style.left = '400px';
